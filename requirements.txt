@@ -1,0 +1,6 @@
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+pandas @ file:///C:/ci/pandas_1602083338010/work
+plotly @ file:///Users/nicolas/miniconda2/conda-bld/plotly_1624908964319/work/packages/python/plotly/dist/plotly-5.1.0.tar.gz
+plotly-express==0.4.1
+cufflinks==0.17.3
+seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
