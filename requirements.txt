@@ -6,3 +6,4 @@ plotly-express==0.4.1
 numpy==1.19.2
 chart-studio==1.1.0
 openpyxl==3.0.5
+xlrd==1.2.0
